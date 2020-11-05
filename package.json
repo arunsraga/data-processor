@@ -1,0 +1,22 @@
+{
+  "name": "datatransform",
+  "version": "1.0.0",
+  "description": "Application to process json data in require format",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunsraga/data-processor.git"
+  },
+  "author": "arun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunsraga/data-processor/issues"
+  },
+  "homepage": "https://github.com/arunsraga/data-processor#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
